@@ -1,0 +1,19 @@
+.card {
+  width: 6em;
+  height: 6em;
+  padding: 2em;
+  margin: 1em;
+  float: left;
+  text-align: center;
+  background-color: blue;
+  border-radius: 15%;
+}
+
+.revealed {
+  background-color: gray;
+}
+
+.hidden {
+  background-color: white;
+  color: white;
+}
